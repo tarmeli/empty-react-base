@@ -1,13 +1,13 @@
-## Empty React Base
+# Empty React Base
 
-# to install
+## to install
 
 ```
 npm i
 ```
 in root
 
-# modules used
+## modules used
 
 * React
 * create-react-app
